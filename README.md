@@ -26,13 +26,22 @@ Sign Up/Sign In: Users can create an account or log in to personalize their expe
 
 ## INSTALLATION
 
-Clone the repository:  
+### Clone the repository:  
 git clone https://github.com/your-repo/ecommerce-recommendation-system.git  
 cd ecommerce-recommendation-system  
-Install the required dependencies:  
-Run the Flask application:  
+### Install the required dependencies:  
+Flask==2.1.1  
+Flask-Bootstrap==3.3.7.1  
+pandas==1.4.2  
+scikit-learn==1.1.1  
+numpy==1.22.4  
+Werkzeug==2.1.1  
+Jinja2==3.1.1  
+itsdangerous==2.1.1  
+MarkupSafe==2.1.1  
+### Run the Flask application:  
 python app.py  
-Visit the application  
+### Visit the application  
 
 ## Data Files
 
