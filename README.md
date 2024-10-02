@@ -63,5 +63,13 @@ Flask-Bootstrap
 
 ## EXAMPLE
 
+<img width="938" alt="ecom1" src="https://github.com/user-attachments/assets/6c211a6e-17da-45b1-b55e-238e6036a5f8">
+
+<img width="918" alt="ecom2" src="https://github.com/user-attachments/assets/92adb63f-139c-413e-97ab-4ab694c9632f">  
+
+<img width="866" alt="ecom3" src="https://github.com/user-attachments/assets/bbdb9c7d-2e26-4eac-8cbd-844bea299c57">
+
+<img width="915" alt="ecom4" src="https://github.com/user-attachments/assets/28b2e16f-9325-4348-945b-42a0b8cda98a">
+
 
 
